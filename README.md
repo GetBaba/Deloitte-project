@@ -6,11 +6,7 @@ As part of the end of our Master's in Business Analytics & Data, each student is
 
 Business Case Steps
 1. Identification
-To horizontally scale our distribution, we first need to understand our current customer
-base. This involves analyzing the features behind our best-selling customers.
-For example, pet-friendly hotels might not be our best customer, whereas a more crowded
-restaurant could be.
-In this section you should go through the following steps:
+To horizontally scale our distribution, we first need to understand our current customer base. This involves analyzing the features behind our best-selling customers. For example, pet-friendly hotels might not be our best customer, whereas a more crowded restaurant could be. In this section you should go through the following steps:
 
 • Data Preprocessing: ensure data quality and consistency.
 • Combining Data: join datasets carefully, considering which join strategy best
